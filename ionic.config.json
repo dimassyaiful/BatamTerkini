@@ -1,0 +1,7 @@
+{
+  "name": "BatamTerkini",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
